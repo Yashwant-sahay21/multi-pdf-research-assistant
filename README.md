@@ -53,7 +53,8 @@ A Retrieval-Augmented Generation (RAG) based Research Assistant that allows user
 
 ## System Architecture
 
-<img width="931" height="1401" alt="Research Assistant Architecture drawio" src="https://github.com/user-attachments/assets/c50c4073-9dc9-45c9-9ba1-57938682f77d" />
+<img width="931" height="1401" alt="Research Assistant Architecture drawio" src="https://github.com/user-attachments/assets/d494a5b5-44a4-4c61-8bec-3391777de69b" />
+
 
 
 ---
